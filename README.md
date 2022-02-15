@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Visit [https://nextjs-blog-kappa-three.vercel.app/]Vercel to check the deployed version
+
+or
+
 First, run the development server:
 
 ```bash
