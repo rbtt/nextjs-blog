@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Visit [https://nextjs-blog-kappa-three.vercel.app/] to check the deployed version
+Visit https://nextjs-blog-kappa-three.vercel.app/ to check the deployed version
 
 or
 
